@@ -7,7 +7,7 @@
 <table border="0">
 <tr>
 <td align=center>
-<img src="images/TechM1.gif">
+<img src="images/TechM.gif">
 </td>
 <td>
 <h1>Sample Application JSP Page</h1>
