@@ -1,12 +1,9 @@
 {
-  "version-project": {
-    "version-id": [
+  version-id: {
+    values: [
       "1",
-      "2"
-    ],
-    "value": [
-      "1.0",
-      "2.0"
+      "2",
+      "3"
     ]
   }
 }
